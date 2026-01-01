@@ -1,0 +1,447 @@
+(index):1  GET https://cloud.umami.is/script.js net::ERR_BLOCKED_BY_CLIENT
+Search.svelte:102 Pagefind is not available in development mode. Using mock data.
+Search.svelte:96 Pagefind status on init: false
+VM379 umami-share.js:18  GET https://cloud.umami.is/analytics/us/api/share/XKsfIpyqaISjA04A net::ERR_BLOCKED_BY_CLIENT
+fetchShareData @ VM379 umami-share.js:18
+global.getUmamiShareData @ VM379 umami-share.js:29
+doFetch @ VM379 umami-share.js:44
+global.fetchUmamiStats @ VM379 umami-share.js:73
+loadSiteStats @ (index):7986
+(index):7998 Failed to fetch site stats: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at HTMLDocument.loadSiteStats ((index):7986:37)
+loadSiteStats @ (index):7998
+(index):8065 Error fetching page views: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at HTMLDocument.loadSiteStats ((index):7986:37)
+fetchPageViews @ (index):8065
+(index):8116 Error fetching page views: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at HTMLDocument.loadSiteStats ((index):7986:37)
+fetchPageViews @ (index):8116
+(index):8167 Error fetching page views: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at HTMLDocument.loadSiteStats ((index):7986:37)
+fetchPageViews @ (index):8167
+(index):8216 Error fetching page views: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at HTMLDocument.loadSiteStats ((index):7986:37)
+fetchPageViews @ (index):8216
+@swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32  GET https://cloud.umami.is/script.js net::ERR_BLOCKED_BY_CLIENT
+runScript @ @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32
+(anonymous) @ @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27
+runScripts @ @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:288
+await in call
+N @ chunk-GY66QRGB.js?v=d58a711f:483
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:430
+await in (anonymous)
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:287
+await in call
+I @ chunk-GY66QRGB.js?v=d58a711f:428
+await in I
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:554
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+handleLinkClick @ chunk-GY66QRGB.js?v=d58a711f:551
+listenerFunction @ chunk-GY66QRGB.js?v=d58a711f:43
+VM379 umami-share.js:18  GET https://cloud.umami.is/analytics/us/api/share/XKsfIpyqaISjA04A net::ERR_BLOCKED_BY_CLIENT
+fetchShareData @ VM379 umami-share.js:18
+global.getUmamiShareData @ VM379 umami-share.js:29
+doFetch @ VM379 umami-share.js:44
+global.fetchUmamiStats @ VM379 umami-share.js:73
+loadSiteStats @ VM531:6
+(anonymous) @ VM531:25
+(anonymous) @ VM531:29
+runScript @ @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32
+(anonymous) @ @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27
+runScripts @ @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:288
+await in call
+N @ chunk-GY66QRGB.js?v=d58a711f:483
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:430
+await in (anonymous)
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:287
+await in call
+I @ chunk-GY66QRGB.js?v=d58a711f:428
+await in I
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:554
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+handleLinkClick @ chunk-GY66QRGB.js?v=d58a711f:551
+listenerFunction @ chunk-GY66QRGB.js?v=d58a711f:43
+VM531:18 Failed to fetch site stats: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at loadSiteStats (<anonymous>:6:37)
+    at <anonymous>:25:9
+    at <anonymous>:29:3
+    at r.runScript (@swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32:46)
+    at @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27:28
+    at Array.forEach (<anonymous>)
+loadSiteStats @ VM531:18
+await in loadSiteStats
+(anonymous) @ VM531:25
+(anonymous) @ VM531:29
+runScript @ @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32
+(anonymous) @ @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27
+runScripts @ @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:288
+await in call
+N @ chunk-GY66QRGB.js?v=d58a711f:483
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:430
+await in (anonymous)
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:287
+await in call
+I @ chunk-GY66QRGB.js?v=d58a711f:428
+await in I
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:554
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+handleLinkClick @ chunk-GY66QRGB.js?v=d58a711f:551
+listenerFunction @ chunk-GY66QRGB.js?v=d58a711f:43
+VM532:20 Error fetching page views: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at loadSiteStats (<anonymous>:6:37)
+    at <anonymous>:25:9
+    at <anonymous>:29:3
+    at r.runScript (@swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32:46)
+    at @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27:28
+    at Array.forEach (<anonymous>)
+fetchPageViews @ VM532:20
+await in fetchPageViews
+(anonymous) @ VM532:31
+(anonymous) @ VM532:35
+runScript @ @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32
+(anonymous) @ @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27
+runScripts @ @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:288
+await in call
+N @ chunk-GY66QRGB.js?v=d58a711f:483
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:430
+await in (anonymous)
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:287
+await in call
+I @ chunk-GY66QRGB.js?v=d58a711f:428
+await in I
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:554
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+handleLinkClick @ chunk-GY66QRGB.js?v=d58a711f:551
+listenerFunction @ chunk-GY66QRGB.js?v=d58a711f:43
+(index):7998 Failed to fetch site stats: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at loadSiteStats (<anonymous>:6:37)
+    at <anonymous>:25:9
+    at <anonymous>:29:3
+    at r.runScript (@swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32:46)
+    at @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27:28
+    at Array.forEach (<anonymous>)
+loadSiteStats @ (index):7998
+await in loadSiteStats
+dispatch @ page.js:23
+(anonymous) @ page.js:27
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+await in run
+call @ chunk-GY66QRGB.js?v=d58a711f:288
+await in call
+N @ chunk-GY66QRGB.js?v=d58a711f:483
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:430
+await in (anonymous)
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:287
+await in call
+I @ chunk-GY66QRGB.js?v=d58a711f:428
+await in I
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:554
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+handleLinkClick @ chunk-GY66QRGB.js?v=d58a711f:551
+listenerFunction @ chunk-GY66QRGB.js?v=d58a711f:43
+(index):8065 Error fetching page views: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at loadSiteStats (<anonymous>:6:37)
+    at <anonymous>:25:9
+    at <anonymous>:29:3
+    at r.runScript (@swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32:46)
+    at @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27:28
+    at Array.forEach (<anonymous>)
+fetchPageViews @ (index):8065
+await in fetchPageViews
+dispatch @ page.js:23
+(anonymous) @ page.js:27
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+await in run
+call @ chunk-GY66QRGB.js?v=d58a711f:288
+await in call
+N @ chunk-GY66QRGB.js?v=d58a711f:483
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:430
+await in (anonymous)
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:287
+await in call
+I @ chunk-GY66QRGB.js?v=d58a711f:428
+await in I
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:554
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+handleLinkClick @ chunk-GY66QRGB.js?v=d58a711f:551
+listenerFunction @ chunk-GY66QRGB.js?v=d58a711f:43
+(index):8116 Error fetching page views: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at loadSiteStats (<anonymous>:6:37)
+    at <anonymous>:25:9
+    at <anonymous>:29:3
+    at r.runScript (@swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32:46)
+    at @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27:28
+    at Array.forEach (<anonymous>)
+fetchPageViews @ (index):8116
+await in fetchPageViews
+dispatch @ page.js:23
+(anonymous) @ page.js:27
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+await in run
+call @ chunk-GY66QRGB.js?v=d58a711f:288
+await in call
+N @ chunk-GY66QRGB.js?v=d58a711f:483
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:430
+await in (anonymous)
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:287
+await in call
+I @ chunk-GY66QRGB.js?v=d58a711f:428
+await in I
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:554
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+handleLinkClick @ chunk-GY66QRGB.js?v=d58a711f:551
+listenerFunction @ chunk-GY66QRGB.js?v=d58a711f:43
+(index):8167 Error fetching page views: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at loadSiteStats (<anonymous>:6:37)
+    at <anonymous>:25:9
+    at <anonymous>:29:3
+    at r.runScript (@swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32:46)
+    at @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27:28
+    at Array.forEach (<anonymous>)
+fetchPageViews @ (index):8167
+await in fetchPageViews
+dispatch @ page.js:23
+(anonymous) @ page.js:27
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+await in run
+call @ chunk-GY66QRGB.js?v=d58a711f:288
+await in call
+N @ chunk-GY66QRGB.js?v=d58a711f:483
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:430
+await in (anonymous)
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:287
+await in call
+I @ chunk-GY66QRGB.js?v=d58a711f:428
+await in I
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:554
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+handleLinkClick @ chunk-GY66QRGB.js?v=d58a711f:551
+listenerFunction @ chunk-GY66QRGB.js?v=d58a711f:43
+(index):8216 Error fetching page views: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at loadSiteStats (<anonymous>:6:37)
+    at <anonymous>:25:9
+    at <anonymous>:29:3
+    at r.runScript (@swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32:46)
+    at @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27:28
+    at Array.forEach (<anonymous>)
+fetchPageViews @ (index):8216
+await in fetchPageViews
+dispatch @ page.js:23
+(anonymous) @ page.js:27
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+await in run
+call @ chunk-GY66QRGB.js?v=d58a711f:288
+await in call
+N @ chunk-GY66QRGB.js?v=d58a711f:483
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:430
+await in (anonymous)
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:287
+await in call
+I @ chunk-GY66QRGB.js?v=d58a711f:428
+await in I
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:554
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+handleLinkClick @ chunk-GY66QRGB.js?v=d58a711f:551
+listenerFunction @ chunk-GY66QRGB.js?v=d58a711f:43
+VM531:18 Failed to fetch site stats: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at loadSiteStats (<anonymous>:6:37)
+    at <anonymous>:25:9
+    at <anonymous>:29:3
+    at r.runScript (@swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32:46)
+    at @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27:28
+    at Array.forEach (<anonymous>)
+loadSiteStats @ VM531:18
+await in loadSiteStats
+dispatch @ page.js:23
+(anonymous) @ page.js:27
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+await in run
+call @ chunk-GY66QRGB.js?v=d58a711f:288
+await in call
+N @ chunk-GY66QRGB.js?v=d58a711f:483
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:430
+await in (anonymous)
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:287
+await in call
+I @ chunk-GY66QRGB.js?v=d58a711f:428
+await in I
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:554
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+handleLinkClick @ chunk-GY66QRGB.js?v=d58a711f:551
+listenerFunction @ chunk-GY66QRGB.js?v=d58a711f:43
+VM532:20 Error fetching page views: TypeError: Failed to fetch
+    at fetchShareData (VM379 umami-share.js:18:23)
+    at global.getUmamiShareData (VM379 umami-share.js:29:36)
+    at doFetch (VM379 umami-share.js:44:49)
+    at global.fetchUmamiStats (VM379 umami-share.js:73:12)
+    at loadSiteStats (<anonymous>:6:37)
+    at <anonymous>:25:9
+    at <anonymous>:29:3
+    at r.runScript (@swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:32:46)
+    at @swup_astro_client_SwupScriptsPlugin.js?v=d58a711f:27:28
+    at Array.forEach (<anonymous>)
+fetchPageViews @ VM532:20
+await in fetchPageViews
+dispatch @ page.js:23
+(anonymous) @ page.js:27
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+await in run
+call @ chunk-GY66QRGB.js?v=d58a711f:288
+await in call
+N @ chunk-GY66QRGB.js?v=d58a711f:483
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:430
+await in (anonymous)
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+call @ chunk-GY66QRGB.js?v=d58a711f:287
+await in call
+I @ chunk-GY66QRGB.js?v=d58a711f:428
+await in I
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:554
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+handleLinkClick @ chunk-GY66QRGB.js?v=d58a711f:551
+listenerFunction @ chunk-GY66QRGB.js?v=d58a711f:43
+@swup_astro_client_SwupA11yPlugin.js?v=d58a711f:175 SwupA11yPlugin: No main heading (h1) found on new page
+headingSelector @ @swup_astro_client_SwupA11yPlugin.js?v=d58a711f:175
+getPageAnnouncement @ @swup_astro_client_SwupA11yPlugin.js?v=d58a711f:178
+(anonymous) @ @swup_astro_client_SwupA11yPlugin.js?v=d58a711f:154
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+announceContent @ @swup_astro_client_SwupA11yPlugin.js?v=d58a711f:153
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:186
+g @ chunk-GY66QRGB.js?v=d58a711f:185
+run @ chunk-GY66QRGB.js?v=d58a711f:304
+await in run
+call @ chunk-GY66QRGB.js?v=d58a711f:288
+await in call
+I @ chunk-GY66QRGB.js?v=d58a711f:432
+await in I
+(anonymous) @ chunk-GY66QRGB.js?v=d58a711f:554
+runSync @ chunk-GY66QRGB.js?v=d58a711f:318
+callSync @ chunk-GY66QRGB.js?v=d58a711f:293
+handleLinkClick @ chunk-GY66QRGB.js?v=d58a711f:551
+listenerFunction @ chunk-GY66QRGB.js?v=d58a711f:43
